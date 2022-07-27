@@ -1,3 +1,3 @@
-Tipagem Dinâmica
+# Tipagem Dinâmica
 
-Tipagem dinâmica é um conceito
+*Tipagem* dinâmica é um conceito
