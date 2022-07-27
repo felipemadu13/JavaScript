@@ -1,4 +1,10 @@
-# JavaScript para back-end
- Anotações, aulas e exercícios respondidos da formação "JavaScript para back-end" da Alura.
+# JavaScript para back-end #
+Documentação para o entendimento da ferramenta Node.js, utilizando a formação _"JavaScript para back-end"_ da Alura.
+
+## JavaScript ##
+JavaScript é uma linguagem de programação de alto nível, interpretada, com tipagem dinâmica e multiparadigma. Junto com HTML e CSS, representa a base das tecnologias para internet.
  
- ## JavaScript: tipos, variáveis e funções
+## Node.Js ##
+O Node.js é um ambiente para execução de códigos javascript pelo back-end.
+
+ ## JavaScript: tipos, variáveis e funções ##
