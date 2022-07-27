@@ -1,6 +1,6 @@
-
-
-<h1 align="center"> JavaScript para back-end </h1>
+<h1 align="center">
+  <img src="https://i.ibb.co/2PK5CWd/JSBack-End.png" alt="back-end.js">
+</h1>
 
 Documentação para o entendimento da ferramenta **Node.js**, utilizando a formação _"JavaScript para back-end"_ da Alura.
 
