@@ -1,4 +1,7 @@
-# JavaScript para back-end #
+
+
+<h1 align="center"> JavaScript para back-end </h1>
+
 Documentação para o entendimento da ferramenta **Node.js**, utilizando a formação _"JavaScript para back-end"_ da Alura.
 
 ## ![js50](https://user-images.githubusercontent.com/106445418/181271387-358960f0-a87b-4a7f-bd19-39f36deac11f.png) JavaScript
