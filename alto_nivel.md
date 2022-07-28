@@ -1,8 +1,10 @@
 # Linguagem de Alto Nível vs Baixo Nível
 
 ## Linguagem de Alto Nível
-São linguagens mais próximas da fala humana, que através de um software de interpretação, se comunicam com o computador.
+As linguagens de alto nível são voltadas aos humanos, sua sintaxe é simples e possuem comandos intuitivos. Nessas linguagens, os programas desenvolvidos pelo programador passam por algum interpretador ou compilador para se transformado em uma linguagem mais próxima a de máquina.
 _Ex: Python, JavaScript, PHP, etc_
 
 ## Linguagem de Baixo Nível
-São as linguagens de máquina. Os computadores são capazes de comunicar apenas através de números binários, eles lêem 0 e 1, e transforam o resultado em impulsos elétricos que são lidos pelo _hardware_.
+As linguagens de baixo nível são voltadas ao dispositivo, suas sintaxes são complexas e não possuem comandos intuitivos. O seu principal objetivo é dar comandos que o computador consiga entender com facilidade. 
+_Ex: Linguagem Assembly_
+
