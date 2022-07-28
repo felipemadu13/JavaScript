@@ -52,7 +52,8 @@ Por mais contraditório que o nome seja, o const é uma variável constante. Seu
 
 A função é um “bloco de código”  encarregado de uma tarefa que pode ser reutilizado diversas vezes por outras partes do código.
 
-```function imprimeTexto(texto) {
+```
+function imprimeTexto(texto) {
     console.log(texto)
 }
 
