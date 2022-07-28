@@ -21,7 +21,7 @@ _Ex: C, C++, Fortran, Pascal_
 
 
 ## Linguagem Interpretada
-São linguagens que o código é executado em linha por linha.
+São linguagens que o código é executado em linha por linha, através de um interpretador.
 
 _Ex PHP, Javascript e Python_
 
