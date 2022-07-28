@@ -11,11 +11,9 @@ Traduzido do: https://www.freecodecamp.org/news/compiled-versus-interpreted-lang
 
 
 ## Linguagem Compilada
-Para executar o programa, o programa deve ser compilado, passando por um compilador, ele transforma a linguagem de alto nível em linguagem de baixo nível.
-Linguagem Assembly
-**DAI** essa linguagem que é convertida em binário pelo montador (assembler)
+São linguagens que o código fonte é compilado de uma vez. Essa compilação, feita pelo compilador, transforma o código em linguagem de baixo nível que por sua vez é montada pelo montador e enviado ao hardware como código de máquina.
 
-C, C++, Fortran, Pascal
+_Ex: C, C++, Fortran, Pascal_
 
 
 ![Linguagem compilada](https://user-images.githubusercontent.com/106445418/181505643-4b44ded9-7045-473e-980e-5aac741e34cd.png)
@@ -23,9 +21,9 @@ C, C++, Fortran, Pascal
 
 
 ## Linguagem Interpretada
-a tradução do codigo fonte para o codigo de maquina é feita comando por comando
-e quem faz isso é um interpretador
-Ex PHP, JAvascript e Python
+São linguagens que o código é executado em linha por linha.
+
+_Ex PHP, Javascript e Python_
 
 ![Linguagem Interpretada](https://user-images.githubusercontent.com/106445418/181508558-4c0d69b7-09ed-4d7b-adfa-78d9ddd045ca.png)
 
