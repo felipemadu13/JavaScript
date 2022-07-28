@@ -27,4 +27,7 @@ a tradução do codigo fonte para o codigo de maquina é feita comando por coman
 e quem faz isso é um interpretador
 Ex PHP, JAvascript e Python
 
+![Linguagem Interpretada](https://user-images.githubusercontent.com/106445418/181508558-4c0d69b7-09ed-4d7b-adfa-78d9ddd045ca.png)
+
+
 
