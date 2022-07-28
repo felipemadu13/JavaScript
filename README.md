@@ -20,11 +20,11 @@ Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma de
  
  | TIPO | DEFINIÇÃO | EXEMPLO |
 | --- | --- | --- |
-| String | Textos | `let variável = ‘exemplo de texto’; `|
-| Number | Números | `let variável = 5;` |
-| Boolean | Verdadeiro (true) ou Falso (false) | `let variável = true;` |
-| Object | Basicamente, qualquer coisa. | `let variável = documento.querySelector(’h1’);` |
-| Null | Valor nulo | `let variável = null;` |
+| String | Textos | `let variavel = ‘exemplo de texto’; `|
+| Number | Números | `let variavel = 5;` |
+| Boolean | Verdadeiro (true) ou Falso (false) | `let variavel = true;` |
+| Object | Basicamente, qualquer coisa. | `let variavel = documento.querySelector(’h1’);` |
+| Null | Valor nulo | `let variavel = null;` |
 | Undefined | Valor não definido | `undefined` |
 | BigInt |  É um objeto nativo que fornece um modo de representar números inteiros maiores que 2^53 | `BigInt(valor);` |
 | Symbol | Depois de criar um símbolo, seu valor é mantido privado e para uso interno. | `Symbol();` |
@@ -36,11 +36,17 @@ Dentro da programação, variáveis são estruturas capazes de reter ou represen
 ### var ###
 O var é o tipo de declaração mais antiga do JavaScript, surgindo junto com a linguagem em 1993. Esta declaração possui escopo global, por isso é necessário muito cuidado ao escolher o indicador que acompanha a variável. Seu uso é considerado por muitos má prática, por ser muito poderosa.
 
+`var variavel = 5`
+
 ### let ###
 O let surgiu com o ES6 e possui escopo de bloco. Caso uma declaração seja feita dentro de uma função, ela não ira afetar as que estão fora dela.
 
+`let variavel = 5`
+
 ### const ###
 Por mais contraditório que o nome seja, o const é uma variável constante. Seu valor não muda, uma vez declarada.
+
+`const variavel = 5`
 
 ## Operadores ##
 
