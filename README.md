@@ -42,3 +42,6 @@ O let surgiu com o ES6 e possui escopo de bloco. Caso uma declaração seja feit
 ### const ###
 Por mais contraditório que o nome seja, o const é uma variável constante. Seu valor não muda, uma vez declarada.
 
+## Operadores ##
+
+
