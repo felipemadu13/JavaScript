@@ -20,14 +20,14 @@ Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma de
  
  | TIPO | DEFINIÇÃO | EXEMPLO |
 | --- | --- | --- |
-| String | Textos | let variável = ‘exemplo de texto’; |
-| Number | Números | let variável = 5; |
-| Boolean | Verdadeiro (true) ou Falso (false) | let variável = true; |
-| Object | Basicamente, qualquer coisa. | let variável = documento.querySelector(’h1’); |
-| Null | Valor nulo | let variável = null; |
-| Undefined | Valor não definido | undefined |
-| BigInt |  É um objeto nativo que fornece um modo de representar números inteiros maiores que 2^53 | BigInt(valor); |
-| Symbol | Depois de criar um símbolo, seu valor é mantido privado e para uso interno. | Symbol(); |
+| String | Textos | `let variável = ‘exemplo de texto’; `|
+| Number | Números | `let variável = 5;` |
+| Boolean | Verdadeiro (true) ou Falso (false) | `let variável = true;` |
+| Object | Basicamente, qualquer coisa. | `let variável = documento.querySelector(’h1’);` |
+| Null | Valor nulo | `let variável = null;` |
+| Undefined | Valor não definido | `undefined` |
+| BigInt |  É um objeto nativo que fornece um modo de representar números inteiros maiores que 2^53 | `BigInt(valor);` |
+| Symbol | Depois de criar um símbolo, seu valor é mantido privado e para uso interno. | `Symbol();` |
 
 ## Variáveis ##
 
