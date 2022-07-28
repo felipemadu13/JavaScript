@@ -18,13 +18,13 @@ Linguagem Assembly
 C, C++, Fortran, Pascal
 
 
+![Linguagem compilada](https://user-images.githubusercontent.com/106445418/181505643-4b44ded9-7045-473e-980e-5aac741e34cd.png)
+
+
+
 ## Linguagem Interpretada
 a tradução do codigo fonte para o codigo de maquina é feita comando por comando
 e quem faz isso é um interpretador
 Ex PHP, JAvascript e Python
-
-## terceira
-
-EX Lua, Java, C Sharp,
 
 
