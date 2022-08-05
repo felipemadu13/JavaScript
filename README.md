@@ -10,9 +10,6 @@ Documentação para o entendimento da ferramenta **Node.js**, utilizando a forma
 # ![node50](https://user-images.githubusercontent.com/106445418/181272395-b4ca04e1-bb01-427b-ad38-dfb92a4ebe05.png) Node.js
 O **Node.js** é um ambiente para execução de códigos JavaScript pelo back-end.
 
-
-# JavaScript: tipos, variáveis e funções #
-
 ## Tipos ##
 Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma determinada linguagem de programação.
 
