@@ -30,9 +30,9 @@ de uma linha */
 
 | Palavra-chave | Descrição |
 | --- | --- |
-| var | Declara uma variável de escopo global. |
-| let | Declara uma variável de escopo local. |
-| const | Declara uma variável constante. |
+| [var](https://github.com/felipemadu13/JavaScript/blob/1f73ce8bf9982096ec9872733ad98d3896d24bd4/Textos/var,%20let%20e%20const.md) | Declara uma variável de escopo global. |
+| [let](https://github.com/felipemadu13/JavaScript/blob/1f73ce8bf9982096ec9872733ad98d3896d24bd4/Textos/var,%20let%20e%20const.md) | Declara uma variável de escopo local. |
+| [const](https://github.com/felipemadu13/JavaScript/blob/1f73ce8bf9982096ec9872733ad98d3896d24bd4/Textos/var,%20let%20e%20const.md) | Declara uma variável constante. |
 | if | Marca um bloco para ser executado com condições. |
 | switch | Marca um bloco  para ser executado em diferentes casos. |
 | for | Marca um bloco para ser executado em um laço. |
