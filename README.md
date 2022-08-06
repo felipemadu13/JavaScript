@@ -57,16 +57,3 @@ Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma de
 
 
 
-## Função ##
-
-A função é um “bloco de código”  encarregado de uma tarefa que pode ser reutilizado diversas vezes por outras partes do código.
-
-```
-function imprimeTexto(texto) {
-    console.log(texto)
-}
-
-imprimeTexto('Oi');
-imprimeTexto('Outro texto');
-```
-
