@@ -33,11 +33,11 @@ de uma linha */
 | var | Declara uma variável de escopo global. |
 | let | Declara uma variável de escopo local. |
 | const | Declara uma variável constante. |
-| if | Marca um bloco para ser executado com condições |
-| switch | Marca um bloco  para ser executado em diferentes casos |
-| for | Marca um bloco para ser executado em um laço |
-| function | Declara uma função |
-| return | A saída deseja da função |
+| if | Marca um bloco para ser executado com condições. |
+| switch | Marca um bloco  para ser executado em diferentes casos. |
+| for | Marca um bloco para ser executado em um laço. |
+| function | Declara uma função. |
+| return | A saída deseja da função. |
 
 ## Tipos ##
 Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma determinada linguagem de programação.
