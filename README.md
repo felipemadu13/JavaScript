@@ -55,24 +55,7 @@ Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma de
 | BigInt |  É um objeto nativo que fornece um modo de representar números inteiros maiores que 2^53 | `BigInt(valor);` |
 | Symbol | Depois de criar um símbolo, seu valor é mantido privado e para uso interno. | `Symbol();` |
 
-## Variáveis ##
 
-Dentro da programação, variáveis são estruturas capazes de reter ou representar um valor ou expressão.  A partir do EcmaScript 6, o JavaScript passou a possuir três opções de declarações para variáveis.
-
-### var ###
-O var é o tipo de declaração mais antiga do JavaScript, surgindo junto com a linguagem em 1993. Esta declaração possui escopo global, por isso é necessário muito cuidado ao escolher o indicador que acompanha a variável. Seu uso é considerado por muitos má prática, por ser muito poderosa.
-
-`var variavel = 5`
-
-### let ###
-O let surgiu com o ES6 e possui escopo de bloco. Caso uma declaração seja feita dentro de uma função, ela não ira afetar as que estão fora dela.
-
-`let variavel = 5`
-
-### const ###
-Por mais contraditório que o nome seja, o const é uma variável constante. Seu valor não muda, uma vez declarada.
-
-`const variavel = 5`
 
 ## Função ##
 
