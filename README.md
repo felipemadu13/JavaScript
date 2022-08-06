@@ -36,7 +36,7 @@ de uma linha */
 | if | Marca um bloco para ser executado com condições. |
 | switch | Marca um bloco  para ser executado em diferentes casos. |
 | for | Marca um bloco para ser executado em um laço. |
-| function | Declara uma função. |
+| [function](https://github.com/felipemadu13/JavaScript/blob/e22eb40968702f0e08a6b3acfdcab2e7e8f9cbbe/Textos/function.md) | Declara uma função. |
 | return | A saída deseja da função. |
 
 ## Tipos ##
