@@ -12,11 +12,11 @@ O **Node.js** é um ambiente para execução de códigos JavaScript pelo back-en
 
 As instruções, *statements* em inglês, no JavaScript são compostas por:
 
-- **Comentários (*Comments)***
-- **Palavras-chave (k*eywords)***
-- *Values*
-- Operadores **(o*perators)***
-- Expressions
+- Comentários _(comments)_
+- Palavras-chave _(keywords)_
+- Valores _(Values)_
+- Operadores _(operators)_
+- Expressões _(Expressions)_
 
 ## Comentários *(comments)* ##
 
