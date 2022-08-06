@@ -8,6 +8,37 @@ Documentação para o entendimento da ferramenta **Node.js**, utilizando as form
 # ![node50](https://user-images.githubusercontent.com/106445418/181272395-b4ca04e1-bb01-427b-ad38-dfb92a4ebe05.png) Node.js
 O **Node.js** é um ambiente para execução de códigos JavaScript pelo back-end.
 
+# Instruções JavaScript
+
+As instruções, *statements* em inglês, no JavaScript são compostas por:
+
+- **Comentários (*Comments)***
+- **Palavras-chave (k*eywords)***
+- *Values*
+- Operadores **(o*perators)***
+- Expressions
+
+## Comentários *(comments)* ##
+
+```css
+// comentário de uma linha
+/* comentário de mais 
+de uma linha */
+```
+
+## Exemplos de Palavras-chave *(keywords)* ##
+
+| Palavra-chave | Descrição |
+| --- | --- |
+| var | Declara uma variável de escopo global. |
+| let | Declara uma variável de escopo local. |
+| const | Declara uma variável constante. |
+| if | Marca um bloco para ser executado com condições |
+| switch | Marca um bloco  para ser executado em diferentes casos |
+| for | Marca um bloco para ser executado em um laço |
+| function | Declara uma função |
+| return | A saída deseja da função |
+
 ## Tipos ##
 Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma determinada linguagem de programação.
 
