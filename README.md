@@ -8,6 +8,37 @@ Documentação para o entendimento da ferramenta **Node.js**, utilizando as form
 # ![node50](https://user-images.githubusercontent.com/106445418/181272395-b4ca04e1-bb01-427b-ad38-dfb92a4ebe05.png) Node.js
 O **Node.js** é um ambiente para execução de códigos JavaScript pelo back-end.
 
+# Instruções JavaScript
+
+As instruções, *statements* em inglês, no JavaScript são compostas por:
+
+- Comentários _(comments)_
+- Palavras-chave _(keywords)_
+- Valores _(Values)_
+- Operadores _(operators)_
+- Expressões _(Expressions)_
+
+## Comentários *(comments)* ##
+
+```css
+// comentário de uma linha
+/* comentário de mais 
+de uma linha */
+```
+
+## Exemplos de Palavras-chave *(keywords)* ##
+
+| Palavra-chave | Descrição |
+| --- | --- |
+| [var](https://github.com/felipemadu13/JavaScript/blob/1f73ce8bf9982096ec9872733ad98d3896d24bd4/Textos/var,%20let%20e%20const.md) | Declara uma variável de escopo global. |
+| [let](https://github.com/felipemadu13/JavaScript/blob/1f73ce8bf9982096ec9872733ad98d3896d24bd4/Textos/var,%20let%20e%20const.md) | Declara uma variável de escopo local. |
+| [const](https://github.com/felipemadu13/JavaScript/blob/1f73ce8bf9982096ec9872733ad98d3896d24bd4/Textos/var,%20let%20e%20const.md) | Declara uma variável constante. |
+| if | Marca um bloco para ser executado com condições. |
+| switch | Marca um bloco  para ser executado em diferentes casos. |
+| for | Marca um bloco para ser executado em um laço. |
+| [function](https://github.com/felipemadu13/JavaScript/blob/e22eb40968702f0e08a6b3acfdcab2e7e8f9cbbe/Textos/function.md) | Declara uma função. |
+| return | A saída deseja da função. |
+
 ## Tipos ##
 Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma determinada linguagem de programação.
 
@@ -24,35 +55,5 @@ Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma de
 | BigInt |  É um objeto nativo que fornece um modo de representar números inteiros maiores que 2^53 | `BigInt(valor);` |
 | Symbol | Depois de criar um símbolo, seu valor é mantido privado e para uso interno. | `Symbol();` |
 
-## Variáveis ##
 
-Dentro da programação, variáveis são estruturas capazes de reter ou representar um valor ou expressão.  A partir do EcmaScript 6, o JavaScript passou a possuir três opções de declarações para variáveis.
-
-### var ###
-O var é o tipo de declaração mais antiga do JavaScript, surgindo junto com a linguagem em 1993. Esta declaração possui escopo global, por isso é necessário muito cuidado ao escolher o indicador que acompanha a variável. Seu uso é considerado por muitos má prática, por ser muito poderosa.
-
-`var variavel = 5`
-
-### let ###
-O let surgiu com o ES6 e possui escopo de bloco. Caso uma declaração seja feita dentro de uma função, ela não ira afetar as que estão fora dela.
-
-`let variavel = 5`
-
-### const ###
-Por mais contraditório que o nome seja, o const é uma variável constante. Seu valor não muda, uma vez declarada.
-
-`const variavel = 5`
-
-## Função ##
-
-A função é um “bloco de código”  encarregado de uma tarefa que pode ser reutilizado diversas vezes por outras partes do código.
-
-```
-function imprimeTexto(texto) {
-    console.log(texto)
-}
-
-imprimeTexto('Oi');
-imprimeTexto('Outro texto');
-```
 
