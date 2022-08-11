@@ -55,5 +55,8 @@ Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma de
 | BigInt |  É um objeto nativo que fornece um modo de representar números inteiros maiores que 2^53 | `BigInt(valor);` |
 | Symbol | Depois de criar um símbolo, seu valor é mantido privado e para uso interno. | `Symbol();` |
 
-
+## Bibliografia ##
+* **JavaScript** _(Curso em Vídeo)_
+* **JavaScript: tipos, variáveis e funções** _(Alura)_
+* **JavaScript: Arrays** _(Alura)_
 
