@@ -56,7 +56,10 @@ Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma de
 | Symbol | Depois de criar um símbolo, seu valor é mantido privado e para uso interno. | `Symbol();` |
 
 ## Bibliografia ##
+### Cursos ###
 * **JavaScript** _(Curso em Vídeo)_
 * **JavaScript: tipos, variáveis e funções** _(Alura)_
 * **JavaScript: Arrays** _(Alura)_
-
+### Documentação ###
+* **W3Schools**
+* **MDN web docs**
