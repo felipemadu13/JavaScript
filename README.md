@@ -1,6 +1,6 @@
 # JavaScript
 
-Documentação para o entendimento da ferramenta **Node.js**, utilizando as formações _"JavaScript para back-end"_, _"JavaScript para front-end"_ da Alura e o curso de _"JavaScript"_ do Curso em Vídeo
+Documentação para o entendimento da linguagem JavaScript.
 
 # ![js50](https://user-images.githubusercontent.com/106445418/181271387-358960f0-a87b-4a7f-bd19-39f36deac11f.png) JavaScript
 **JavaScript** é uma linguagem de programação de [alto nível](https://github.com/felipemadu13/Alura_JavaScript_Back_End/blob/ad6b300ce71c89492671876dfe1156989de5300a/alto_nivel.md), [interpretada](https://github.com/felipemadu13/Alura_JavaScript_Back_End/blob/dc89de7426c8ede4bf988eac1b3f26b48819441d/interpretada.md), com [tipagem dinâmica](https://github.com/felipemadu13/Alura_JavaScript_Back_End/blob/c10e44f7c1e049e3784f0f5fdcfe9795e0be6a56/tipagem.md) e [multiparadigma](https://github.com/felipemadu13/Alura_JavaScript_Back_End/blob/c195a07b668a299afe279dace7d42338068669c5/multiparadigma.md). Junto com HTML e CSS, representa a base das tecnologias para internet.
