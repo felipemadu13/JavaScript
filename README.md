@@ -8,9 +8,12 @@ Documentação para o entendimento da linguagem JavaScript.
 # ![node50](https://user-images.githubusercontent.com/106445418/181272395-b4ca04e1-bb01-427b-ad38-dfb92a4ebe05.png) Node.js
 O **Node.js** é um ambiente para execução de códigos JavaScript pelo back-end.
 
-# Instruções JavaScript
+# Sintaxe
+![Syntax](https://user-images.githubusercontent.com/106445418/185790522-25fa2585-42a7-4b05-8078-c28314c8fd1d.png)
 
-As instruções, *statements* em inglês, no JavaScript são compostas por:
+# Statement
+
+As instruções, *statements* nas linguagens de programação, no caso do JavaScript, são compostas por:
 
 - Comentários _(comments)_
 - Palavras-chave _(keywords)_
