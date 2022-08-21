@@ -43,9 +43,11 @@ de uma linha */
 | return | A saída deseja da função. |
 
 ## Tipos ##
+![Data Type](https://user-images.githubusercontent.com/106445418/185791604-12b46678-2ad3-4d8f-b534-47e4a15a9eda.png)
+
 Os tipos são nada mais que os **tipos de dados** que podem ser usadas em uma determinada linguagem de programação.
 
- última versão ECMAScript define sete tipos de dados:
+ A última versão ECMAScript define oito tipos de dados:
  
  | TIPO | DEFINIÇÃO | EXEMPLO |
 | --- | --- | --- |
